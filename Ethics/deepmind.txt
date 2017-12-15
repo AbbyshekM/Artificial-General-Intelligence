@@ -1,0 +1,29 @@
+DeepMind Ethics & Society Principles
+Understanding the social and ethical implications of a field as complex as AI will only be possible through world-class scientific research and the inclusion of many voices. DeepMind Ethics & Society is governed by five Principles that seek to guarantee the rigour, transparency and social accountability of its work. 
+
+OUR FIVE CORE PRINCIPLES
+Social benefit
+
+Social benefit
+We believe AI should be developed in ways that serve the global social and environmental good, helping to build fairer and more equal societies. Our research will focus directly on ways in which AI can be used to improve people’s lives, placing their rights and well-being at its very heart.
+
+Rigorous and evidence-based
+
+Rigorous and evidence-based
+Our technical research has long conformed to the highest academic standards, and we’re committed to maintaining these standards when studying the impact of AI on society. We will conduct intellectually rigorous, evidence-based research that explores the opportunities and challenges posed by these technologies. The academic tradition of peer review opens up research to critical feedback and is crucial for this kind of work.
+
+Transparent and open
+
+Transparent and open
+We will always be open about who we work with and what projects we fund. All of our research grants will be unrestricted and we will never attempt to influence or pre-determine the outcome of studies we commission. When we collaborate or co-publish with external researchers, we will disclose whether they have received funding from us. Any published academic papers produced by the Ethics & Society team will be made available through open access schemes.
+
+Diverse and interdisciplinary
+
+Diverse and interdisciplinary
+We will strive to involve the broadest possible range of voices in our work, bringing different disciplines together so as to include diverse viewpoints. We recognize that questions raised by AI extend well beyond the technical domain, and can only be answered if we make deliberate efforts to involve different sources of expertise and knowledge.
+
+Collaborative and inclusive
+
+Collaborative and inclusive
+We believe a technology that has the potential to impact all of society must be shaped by and accountable to all of society. We are therefore committed to supporting a range of public and academic dialogues about AI. By establishing ongoing collaboration between our researchers and the people affected by these new technologies, we seek to ensure that AI works for the benefit of all.
+
